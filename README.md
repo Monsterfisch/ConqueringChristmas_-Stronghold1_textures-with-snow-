@@ -12,3 +12,5 @@ Credits go to:
 - Heroesflorian for feedback and nörgeln
 - Krarilotus for assisting with the publishing
 - Nevikov for the idea and his "2" videos he did with the pack
+
+ ALL RIGHTS RESERVED For original Sprites made by me
