@@ -1,7 +1,16 @@
 name: ConqueringChristmas
 author: Monsterfish_
-version: 1.0.1
+version: 1.0.2
 dependencies:
   files: ^1.2.0
-  framework: ">=3.0.5"
-  frontend: ">=1.0.9"
+  framework: '>=3.0.5'
+  frontend: '>=1.0.9'
+tags:
+- textures
+display-name: Conquering Christmas
+type: plugin
+meta:
+  version: 1.0.0
+game:
+- SHC==1.41
+- SHCE==1.41
